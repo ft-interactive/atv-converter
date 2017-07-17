@@ -1,7 +1,7 @@
 {
-  "name": "audiogram",
+  "name": "atv-converter",
   "version": "0.9.5",
-  "description": "Turn audio into a shareable video.",
+  "description": "Turn podcasts into videos",
   "main": "index.js",
   "scripts": {
     "start": "npm run postinstall && bin/server",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nypublicradio/audiogram.git"
+    "url": "https://github.com/ft-interactive/atv-converter.git"
   },
   "keywords": [],
   "author": {
