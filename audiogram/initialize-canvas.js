@@ -1,6 +1,6 @@
 var fs = require("fs"),
     path = require("path"),
-    Canvas = require("canvas-prebuilt"),
+    Canvas = require("canvas"),
     getRenderer = require("../renderer/");
 
 function initializeCanvas(theme, cb) {

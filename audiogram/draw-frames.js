@@ -1,6 +1,6 @@
 var fs = require("fs"),
     path = require("path"),
-    Canvas = require("canvas-prebuilt"),
+    Canvas = require("canvas"),
     queue = require("d3").queue;
 
 function drawFrames(renderer, options, cb) {
