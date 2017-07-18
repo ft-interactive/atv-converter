@@ -1,5 +1,5 @@
 var tape = require("tape"),
-    Canvas = require("canvas"),
+    Canvas = require("canvas-prebuilt"),
     d3 = require("d3"),
     path = require("path"),
     fs = require("fs"),
