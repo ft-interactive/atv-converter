@@ -301,3 +301,7 @@ g.time line {
     -webkit-transform: scaleY(1.0);
   }
 }
+
+#row-caption {
+  display: none;
+}
