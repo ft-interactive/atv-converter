@@ -18,7 +18,55 @@
     "captionLeft": 155,
     "captionRight": 1765
   },
-  "Podcasts": {
-    "backgroundImage": "Master_PodcastVid.jpg"
+  "Alphachat": {
+    "backgroundImage": "MAS_PodcVid_Alphachat.jpg"
+  },
+  "Banking Weekly": {
+    "backgroundImage": "MAS_PodcVid_Banking.jpg"
+  },
+  "Big Read": {
+    "backgroundImage": "MAS_PodcVid_BigRead.jpg"
+  },
+  "Brexit Unspun": {
+    "backgroundImage": "MAS_PodcVid_BrexitUnspun.jpg"
+  },
+  "Hard Currency": {
+    "backgroundImage": "MAS_PodcVid_HardCurrency.jpg"
+  },
+  "Investigations": {
+    "backgroundImage": "MAS_PodcVid_Investigations.jpg"
+  },
+  "Life of a Song": {
+    "backgroundImage": "MAS_PodcVid_LifeofaSong.jpg"
+  },
+  "Management": {
+    "backgroundImage": "MAS_PodcVid_Management.jpg"
+  },
+  "Management Book Club": {
+    "backgroundImage": "MAS_PodcVid_MgntBookClub.jpg"
+  },
+  "Money Show": {
+    "backgroundImage": "MAS_PodcVid_MoneyShow.jpg"
+  },
+  "News": {
+    "backgroundImage": "MAS_PodcVid_News.jpg"
+  },
+  "Politics": {
+    "backgroundImage": "MAS_PodcVid_Politics.jpg"
+  },
+  "Start-up Stories": {
+    "backgroundImage": "MAS_PodcVid_StartupStories.jpg"
+  },
+  "Tech Tonic": {
+    "backgroundImage": "MAS_PodcVid_TechTonic.jpg"
+  },
+  "World in 60 seconds": {
+    "backgroundImage": "MAS_PodcVid_World60sec.jpg"
+  },
+  "World Tech Founders": {
+    "backgroundImage": "MAS_PodcVid_WorldTechFders.jpg"
+  },
+  "World Weekly": {
+    "backgroundImage": "MAS_PodcVid_WorldWky.jpg"
   }
 }
