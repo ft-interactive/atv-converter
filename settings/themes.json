@@ -24,6 +24,9 @@
   "Banking Weekly": {
     "backgroundImage": "MAS_PodcVid_Banking.jpg"
   },
+  "Big Picture": {
+    "backgroundImage": "MAS_PodcVid_BigPicture.jpg"
+  },
   "Big Read": {
     "backgroundImage": "MAS_PodcVid_BigRead.jpg"
   },
@@ -38,9 +41,6 @@
   },
   "Life of a Song": {
     "backgroundImage": "MAS_PodcVid_LifeofaSong.jpg"
-  },
-  "Management": {
-    "backgroundImage": "MAS_PodcVid_Management.jpg"
   },
   "Management Book Club": {
     "backgroundImage": "MAS_PodcVid_MgntBookClub.jpg"
@@ -59,6 +59,9 @@
   },
   "Tech Tonic": {
     "backgroundImage": "MAS_PodcVid_TechTonic.jpg"
+  },
+  "Work & Careers": {
+    "backgroundImage": "MAS_PodcVid_Management.jpg"
   },
   "World in 60 seconds": {
     "backgroundImage": "MAS_PodcVid_World60sec.jpg"
