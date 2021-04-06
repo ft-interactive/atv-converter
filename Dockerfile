@@ -10,13 +10,13 @@ redis-server --yes
 RUN ln -s `which nodejs` /usr/bin/node
 
 # Non-privileged user
-RUN useradd -m audiogram
-USER audiogram
-WORKDIR /home/audiogram
+RUN useradd -m atv-converter
+USER atv-converter
+WORKDIR /home/atv-converter
 
 # Clone repo
-RUN git clone https://github.com/nypublicradio/audiogram.git
-WORKDIR /home/audiogram/audiogram
+RUN git clone https://github.com/ft-interactive/atv-converter.git
+WORKDIR /home/atv-converter/atv-converter
 
 # Install dependencies
 RUN npm install
